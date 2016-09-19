@@ -1,0 +1,12 @@
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\bin\Debug\ValidEmailApplication.exe.config
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\bin\Debug\ValidEmailApplication.exe
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\bin\Debug\ValidEmailApplication.pdb
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.Form1.resources
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.Properties.Resources.resources
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.csproj.GenerateResource.Cache
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.exe
+c:\users\chaloamwong.t\documents\visual studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.pdb
+C:\Users\chaloamwong.t\Documents\Visual Studio 2013\Projects\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.csprojResolveAssemblyReference.cache
+D:\Projects\Research\TestRepository\ValidEmailApplication\ValidEmailApplication\bin\Debug\ValidEmailApplication.exe.config
+D:\Projects\Research\TestRepository\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.exe
+D:\Projects\Research\TestRepository\ValidEmailApplication\ValidEmailApplication\obj\Debug\ValidEmailApplication.pdb
